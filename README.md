@@ -1,2 +1,2 @@
 # teste_calculadora
-Esta é uma calculadora desenvolvida nas aulas de lógica.
+Calculadora desenvolvida nas aulas de lógica.
